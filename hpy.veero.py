@@ -745,7 +745,7 @@ try:
 	if f'com.h{t}pc{a}y.pro' in fileee:
 		print('error occur 0')
 		#exit()
-		#exit(f'\nsomethiiing went wrong\n\nContact Admin : +923197951815')
+		#exit(f'\nsomethiiing went wrong\n\nContact Admin : +923424080882')
 except Exception as e:
 	print(e)
 	pass
